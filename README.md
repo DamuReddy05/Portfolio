@@ -7,7 +7,7 @@ It is a responsive website, so adjust your website to different sizes to see the
 
 # How does it Look Like ?
 
-![alt text]()
+![alt text](https://damureddy05.github.io/Portfolio/newport.html)
 
 
 # How do I run this?
