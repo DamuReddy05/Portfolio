@@ -12,5 +12,5 @@ It is a responsive website, so adjust your website to different sizes to see the
 
 # How do I run this?
 
-To view the website, open index.html using a browser
+To view the website, open newport.html using a browser
 
